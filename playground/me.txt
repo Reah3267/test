@@ -1,5 +1,0 @@
-{{#user}}
-Name: Riya
-Skills: HTML, CSS, JS, react.js,sql
-Email: riyaroshni2003t@gmail.com
-{{/user}}
